@@ -1,2 +1,6 @@
 hello for head
-changes new
+Changes from <master>
+Changes from <first>
+
+
+
